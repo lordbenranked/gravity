@@ -1,0 +1,14 @@
+{
+  "name": "@rreusser/magnetic-pendulum",
+  "main": "4063e4ffc15ffc48@786.js",
+  "version": "786.0.0",
+  "homepage": "https://observablehq.com/@rreusser/magnetic-pendulum",
+  "author": {
+    "name": "Ricky Reusser",
+    "url": "https://observablehq.com/@rreusser"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
